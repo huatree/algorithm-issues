@@ -41,3 +41,75 @@
 ## 二叉树的最小深度
 
 <https://leetcode.cn/problems/minimum-depth-of-binary-tree/>
+
+## 二叉树展开为链表
+
+<https://leetcode.cn/problems/flatten-binary-tree-to-linked-list/>
+
+## 二叉树的最近公共祖先
+
+<https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/>
+
+## 二叉树的直径
+
+<https://leetcode.cn/problems/diameter-of-binary-tree/>
+
+## 另一棵树的子树
+
+<https://leetcode.cn/problems/subtree-of-another-tree/>
+
+## 完全二叉树的节点个数
+
+<https://leetcode.cn/problems/count-complete-tree-nodes/>
+
+## 二叉树的层序遍历
+
+<https://leetcode.cn/problems/binary-tree-level-order-traversal/>
+
+## 二叉树的层序遍历 II
+
+<https://leetcode.cn/problems/binary-tree-level-order-traversal-ii/>
+
+## 二叉树的右视图
+
+<https://leetcode.cn/problems/binary-tree-right-side-view/>
+
+## 二叉树的层平均值
+
+<https://leetcode.cn/problems/average-of-levels-in-binary-tree/>
+
+## 填充每个节点的下一个右侧节点指针
+
+<https://leetcode.cn/problems/populating-next-right-pointers-in-each-node/>
+
+## N 叉树的层序遍历
+
+<https://leetcode.cn/problems/n-ary-tree-level-order-traversal/>
+
+## 用栈实现队列
+
+<https://leetcode.cn/problems/implement-queue-using-stacks/>
+
+## 反转字符串中的单词
+
+<https://leetcode.cn/problems/reverse-words-in-a-string/description/>
+
+## 电话号码的字母组合
+
+<https://leetcode.cn/problems/letter-combinations-of-a-phone-number/>
+
+## 组合总和
+
+<https://leetcode.cn/problems/combination-sum/>
+
+## N 皇后
+
+<https://leetcode.cn/problems/n-queens/>
+
+## 解数独
+
+<https://leetcode.cn/problems/sudoku-solver/>
+
+## 复原 IP 地址
+
+<https://leetcode.cn/problems/restore-ip-addresses/>
