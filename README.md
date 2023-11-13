@@ -113,3 +113,31 @@
 ## 复原 IP 地址
 
 <https://leetcode.cn/problems/restore-ip-addresses/>
+
+## 跳跃游戏
+
+<https://leetcode.cn/problems/jump-game/>
+
+## 用最少数量的箭引爆气球
+
+<https://leetcode.cn/problems/minimum-number-of-arrows-to-burst-balloons/>
+
+## 无重叠区间
+
+<https://leetcode.cn/problems/non-overlapping-intervals/>
+
+## Dota2 参议院
+
+<https://leetcode.cn/problems/dota2-senate/>
+
+## 爬楼梯
+
+<https://leetcode.cn/problems/climbing-stairs/>
+
+## 使用最小花费爬楼梯
+
+<https://leetcode.cn/problems/min-cost-climbing-stairs/>
+
+## 打家劫舍 II
+
+<https://leetcode.cn/problems/house-robber-ii/>
