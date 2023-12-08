@@ -1,4 +1,4 @@
-# 说明
+# 算法题操练
 
 积累日常中遇到的算法问题。
 
@@ -141,3 +141,43 @@
 ## 打家劫舍 II
 
 <https://leetcode.cn/problems/house-robber-ii/>
+
+## 打家劫舍 III
+
+<https://leetcode.cn/problems/house-robber-iii/>
+
+## 买卖股票的最佳时机
+
+<https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/>
+
+## 买卖股票的最佳时机 II
+
+<https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/>
+
+## 买卖股票的最佳时机 III
+
+<https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii/>
+
+## 最长连续递增序列
+
+<https://leetcode.cn/problems/longest-continuous-increasing-subsequence/>
+
+## 零钱兑换 II
+
+<https://leetcode.cn/problems/coin-change-ii/>
+
+## 判断子序列
+
+<https://leetcode.cn/problems/is-subsequence/>
+
+## 最长公共子序列
+
+<https://leetcode.cn/problems/longest-common-subsequence/>
+
+## 不同的子序列
+
+<https://leetcode.cn/problems/distinct-subsequences/>
+
+## 整数反转
+
+<https://leetcode.cn/problems/reverse-integer/description/>
