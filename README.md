@@ -181,3 +181,31 @@
 ## 整数反转
 
 <https://leetcode.cn/problems/reverse-integer/description/>
+
+## 两两交换链表的节点
+
+<https://leetcode.cn/problems/swap-nodes-in-pairs/>
+
+## 删除链表的倒数第 N 个结点
+
+<https://leetcode.cn/problems/remove-nth-node-from-end-of-list/>
+
+## 验证栈序列
+
+<https://leetcode.cn/problems/validate-stack-sequences/>
+
+## 有效的括号
+
+<https://leetcode.cn/problems/valid-parentheses>
+
+## 删除最外层的括号
+
+<https://leetcode.cn/problems/remove-outermost-parentheses>
+
+## 移除无效的括号
+
+<https://leetcode.cn/problems/minimum-remove-to-make-valid-parentheses>
+
+## 表现良好的最长时间段
+
+<https://leetcode.cn/problems/longest-well-performing-interval/>
